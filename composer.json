@@ -1,0 +1,18 @@
+{
+    "name": "listong/qrcode",
+    "description": "Use composer to manager vendor dependencies.",
+    "require": {
+        "php":">=5.3.9"
+    },
+    "license": "GNU",
+    "autoload": {
+        "psr-0": { "QRCode": "src/" }
+    },
+    "authors": [
+        {
+            "name": "wbylovesun",
+            "email": "sunme87@163.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
