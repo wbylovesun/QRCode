@@ -6,7 +6,7 @@
     },
     "license": "GNU",
     "autoload": {
-        "psr-0": { "QRCode": "src/" }
+        "psr-4": { "QRCode": "src/" }
     },
     "authors": [
         {
