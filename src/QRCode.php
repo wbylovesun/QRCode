@@ -56,7 +56,7 @@ class QRCode
             throw new Exception('wrong level');
         }
 
-        $raw = new Rawcode($input);
+        $raw = new RawCode($input);
         
         Tools::markTime('after_raw');
         
